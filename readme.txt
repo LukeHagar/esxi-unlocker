@@ -80,3 +80,7 @@ History
 01/05/20 3.0.1 - Fix for ESXi 7.0
 
 (c) 2011-2018 Dave Parsons
+
+
+
+Copying to a Local Repo
